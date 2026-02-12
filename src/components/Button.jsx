@@ -1,5 +1,3 @@
-import React from "react";
-
 const Button = ({ text, disabled = false }) => {
   const logInConsole = (message) => {
     console.log(message);
